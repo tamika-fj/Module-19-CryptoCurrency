@@ -1,1 +1,1 @@
-# Module-19-CryptoCurrency
+Module 19 CryptoCurrency Challenge. In this repositry I have uploaded a folder called Starter_Code which contains a pandas code file called Crypto_Clustering which contains the code to analyse the cryptocurrency data which is located in the Resources folder as a csv file called crypto_market_data. The pandas code is annotated for ease of reading and understanding. To create the code I adapted code from class activities and lectures. 
